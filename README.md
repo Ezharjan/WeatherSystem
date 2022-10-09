@@ -1,4 +1,4 @@
-# WeatherSystem
+# Simulate Weather in Unity 3D
 This is a case study for weather system related plugins in Unity 3D.
 
 
